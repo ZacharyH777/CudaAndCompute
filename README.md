@@ -6,4 +6,8 @@
 - `cmake --build build --config Release --target Hello_Cuda`
 - Generic `cmake --build build --config Release --target <Same_Source_Folder_Name>`
 
+# Run exe
+- `build/Hello_Cuda/bin/Release/main.exe`
+- Generic `build/<Same_Source_Folder_Name>/bin/Release/main.exe`
+
 P.S. (Has only been configured for Windows michines. Edit CMakeSettings for any other machine.)
