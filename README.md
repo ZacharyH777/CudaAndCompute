@@ -4,6 +4,6 @@
   
 # Run each time you/change something update
 - `cmake --build build --config Release --target Hello_Cuda`
--  `cmake --build build --config Release --<Same_Source_Folder_Name>`
+- Generic `cmake --build build --config Release --<Same_Source_Folder_Name>`
 
 P.S. (Has only been configured for Windows michines. Edit CMakeSettings for any other machine.)
